@@ -1,0 +1,5 @@
+# .gitignore
+*.log
+*.out
+/bin
+/vendor
